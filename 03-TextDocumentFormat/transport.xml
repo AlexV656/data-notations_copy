@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <bus>
+        <engine horsePowers = '300'>diesel engine</engine>
+        <peopleCapacity>50</peopleCapacity>
+        <ticektPrice currency="zl">10</ticektPrice>
+        <comfort>Average</comfort>
+    </bus>
+    <car model='toyota corolla'>
+        <engine horsePowers = '169'>2.0-liter four-cylinder</engine>
+        <peopleCapacity>4</peopleCapacity>
+        <price currency="zl" pricePerDieselLiter = "100">100</price>
+        <comfort>Above average</comfort>
+    </car>
+    <plane model = 'Boeing 777'>
+        <engine horsePowers = '160000'>2.0-liter four-cylinder</engine>
+        <peopleCapacity>550</peopleCapacity>
+        <ticektPrice currency="zl" >279</ticektPrice>
+        <comfort>High</comfort>
+    </plane>
+
+
+</transport>

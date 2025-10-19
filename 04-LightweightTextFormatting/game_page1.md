@@ -1,5 +1,5 @@
 # _Sekiro: Shadows Die Twice_
-![image](Sekiro_art.jpg) CHANGE 1
+![image](Sekiro_art.jpg)
 
 ## Describtion 
 * Developer: [FromSoftware Inc.](https://en.wikipedia.org/wiki/FromSoftware)

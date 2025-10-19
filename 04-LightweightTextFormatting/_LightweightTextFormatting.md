@@ -5,7 +5,7 @@ Department of Informatics
 stalj@uek.krakow.pl
 -->
 
-# LIGHTWEIGHT TEXT FORMATTING
+# LIGHTWEIGHT TEXT FORMATTING connection check
 
 ## 1. Introduction to Markdown
 
